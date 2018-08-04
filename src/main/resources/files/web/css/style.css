@@ -1,8 +1,11 @@
-@font-face { font-family: 'OstrichSans';
-    src: url('../fonts/ostrich-sans/OstrichSans-Heavy.otf') format('truetype'); }
-body{
+body {
     background-color: aqua;
     text-align: center;
-    font-family: "OstrichSans", OstrichSans, serif;
+    font-family: "Arial", Arial, serif;
+    font-size: 172%;
+}
+
+h1 {
+    font-family: "Ostrich Sans", OstrichSans, serif;
     font-size: 172%;
 }
