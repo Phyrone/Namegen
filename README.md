@@ -1,0 +1,2 @@
+[![Docker Automated build](https://img.shields.io/docker/automated/phyrone/namegen.svg?style=for-the-badge)](https://hub.docker.com/r/phyrone/namegen/) [![Docker Pulls](https://img.shields.io/docker/pulls/phyrone/namegen.svg?style=for-the-badge)](https://hub.docker.com/r/phyrone/namegen/) [![Docker Build Status](https://img.shields.io/docker/build/phyrone/namegen.svg?style=for-the-badge)](https://hub.docker.com/r/phyrone/namegen/)
+# Namegen
