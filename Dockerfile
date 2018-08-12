@@ -1,5 +1,6 @@
 FROM openjdk:10
 COPY . /build
+COPY names.txt /app/namegen/names.txt
 RUN apt-get update -y
 RUN apt-get install maven -y
 RUN  cd /build && mvn clean install
