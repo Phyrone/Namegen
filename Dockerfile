@@ -1,4 +1,4 @@
-FROM openjdk:10
+FROM openjdk:11-slim
 COPY . /build
 COPY names.txt /app/namegen/names.txt
 RUN apt-get update -y
