@@ -99,3 +99,4 @@ Database
 Object
 Exception
 core
+Cloud
